@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Font Family using Poppins -->
+    <font-family xmlns:android="http://schemas.android.com/apk/res/android">
+        <font 
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/poppins_w300" />
+        <font 
+            android:fontStyle="normal"
+            android:fontWeight="400"
+            android:font="@font/poppins_w400" />
+        <font 
+            android:fontStyle="normal"
+            android:fontWeight="500"
+            android:font="@font/poppins_w500" />
+        <font 
+            android:fontStyle="normal"
+            android:fontWeight="600"
+            android:font="@font/poppins_w600" />
+        <font 
+            android:fontStyle="normal"
+            android:fontWeight="700"
+            android:font="@font/poppins_w700" />
+    </font-family>
+</resources>

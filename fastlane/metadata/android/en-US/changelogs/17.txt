@@ -1,0 +1,6 @@
+This is a major update focused on new features and stability!
+- Introducing Word-Level Synced Lyrics! Enjoy a true karaoke-style experience with real-time highlighting. Lyrics are now also cached to save data.
+- New Playlist Import: You can now import playlists from any music service using the new "Import from CSV" feature in settings.
+- Drastically Improved Reliability: Replaced the core playback engine to significantly reduce errors and make streaming more stable.
+- Added full German language support.
+- Polished the Player and Queue UI for a cleaner and more user-friendly experience.

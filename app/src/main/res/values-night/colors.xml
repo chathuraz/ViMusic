@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    
+    <!-- Primary Colors -->
+    <color name="material_dynamic_primary">#D0BCFF</color>
+    <color name="material_dynamic_on_primary">#381E72</color>
+    <color name="material_dynamic_primary_container">#4F378B</color>
+    <color name="material_dynamic_on_primary_container">#EADDFF</color>
+    
+    <!-- Secondary Colors -->
+    <color name="material_dynamic_secondary">#CCC2DC</color>
+    <color name="material_dynamic_on_secondary">#332D41</color>
+    <color name="material_dynamic_secondary_container">#4A4458</color>
+    <color name="material_dynamic_on_secondary_container">#E8DEF8</color>
+    
+    <!-- Tertiary Colors -->
+    <color name="material_dynamic_tertiary">#EFB8C8</color>
+    <color name="material_dynamic_on_tertiary">#492532</color>
+    <color name="material_dynamic_tertiary_container">#633B48</color>
+    <color name="material_dynamic_on_tertiary_container">#FFD8E4</color>
+    
+    <!-- Error Colors -->
+    <color name="material_dynamic_error">#FFB4AB</color>
+    <color name="material_dynamic_on_error">#690005</color>
+    <color name="material_dynamic_error_container">#93000A</color>
+    <color name="material_dynamic_on_error_container">#FFDAD6</color>
+    
+    <!-- Surface Colors -->
+    <color name="material_dynamic_surface">#10131A</color>
+    <color name="material_dynamic_on_surface">#E6E0E9</color>
+    <color name="material_dynamic_surface_variant">#49454F</color>
+    <color name="material_dynamic_on_surface_variant">#CAC4D0</color>
+    
+    <!-- Outline Colors -->
+    <color name="material_dynamic_outline">#938F99</color>
+    <color name="material_dynamic_outline_variant">#49454F</color>
+    
+    <!-- Music App Specific Dark Colors -->
+    <color name="music_primary">#FF8A65</color>
+    <color name="music_primary_variant">#FF7043</color>
+    <color name="music_secondary">#64B5F6</color>
+    <color name="music_background">#121212</color>
+    <color name="music_surface">#1E1E1E</color>
+    <color name="music_accent">#FF8A65</color>
+    
+    <!-- Dark Player Colors -->
+    <color name="player_background">#000000</color>
+    <color name="player_surface">#121212</color>
+    <color name="player_on_surface">#E1E1E1</color>
+    <color name="player_primary">#FF8A65</color>
+</resources>

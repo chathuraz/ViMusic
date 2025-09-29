@@ -1,0 +1,48 @@
+Experience your music like never before with ViMusic Fork, an enhanced, ad-free music player powered by YouTube Music. Stream any song, play offline, and dive into a world of music without limits—all with a beautiful, customizable, and privacy-focused interface.
+
+This special fork builds upon the original ViMusic with powerful new features you won't find anywhere else!
+
+--- THE ULTIMATE LYRICS EXPERIENCE ---
+
+Go beyond simple line-by-line lyrics! This fork offers true word-level synchronized lyrics, turning your phone into a karaoke machine. Lyrics are intelligently cached after the first load, so they appear instantly and are available offline, all while saving your data.
+
+--- IMPORT FROM ANYWHERE ---
+
+Tired of being locked into one service? With our new Generic CSV Import feature, you can easily import your playlists from Spotify, Apple Music, or any other service that can export to a CSV file. Migrating your music library has never been easier.
+
+--- UNMATCHED RELIABILITY ---
+
+We've replaced the core playback engine with the battle-tested engine from NewPipe. This means a more stable, reliable connection to music streams, with significantly fewer playback errors and interruptions.
+
+--- FULL FEATURE LIST ---
+
+Music & Playback:
+* Play (almost) any song or video from YouTube Music.
+* Play music files stored on your device.
+* Listen in the background, even with your screen off.
+* Cache songs for seamless offline playback.
+* Normalize audio volume for a consistent listening experience.
+* Listen from your car using Android Auto support.
+
+Discovery & Management:
+* Search for songs, albums, artists, videos, and playlists.
+* Discover new songs by mood, genre, and what's trending.
+* Import your public playlists directly from YouTube.
+* Manage your playlists locally.
+
+Lyrics:
+* Word-Level Synchronized Lyrics for a karaoke-style experience.
+* Fetch, display, and edit standard synchronized or static lyrics.
+
+Customization & UI:
+* Highly customizable interface with dynamic themes and Material You support.
+* Open YouTube/YouTube Music links (watch, playlist, channel, etc.) directly in the app.
+* Ridiculously lightweight and efficient APK.
+
+--- OPEN SOURCE & COMMUNITY DRIVEN ---
+
+ViMusic Fork is proudly open-source, completely ad-free, and built by a passionate community. We believe in a clean, private listening experience without distractions. This project honors the fantastic work of the original ViMusic and extends it with features requested by users like you.
+
+A Special Note on Lyrics: The word-level lyrics feature is powered by a community-run server, generously maintained by @ibratabian17. To help ensure this feature remains available for everyone, please consider showing your support for their work!
+
+Join our community, rediscover your playlists, and sing along like never before. Download ViMusic Fork today!
