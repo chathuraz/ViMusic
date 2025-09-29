@@ -2,4 +2,71 @@
 <resources>
     <color name="ic_launcher_background">#4046bf</color>
     <color name="ic_launcher_foreground">#ffffff</color>
+    
+    <!-- Modern Material 3 Dynamic Colors -->
+    
+    <!-- Primary Colors -->
+    <color name="material_dynamic_primary">#6750A4</color>
+    <color name="material_dynamic_on_primary">#FFFFFF</color>
+    <color name="material_dynamic_primary_container">#EADDFF</color>
+    <color name="material_dynamic_on_primary_container">#21005D</color>
+    
+    <!-- Secondary Colors -->
+    <color name="material_dynamic_secondary">#625B71</color>
+    <color name="material_dynamic_on_secondary">#FFFFFF</color>
+    <color name="material_dynamic_secondary_container">#E8DEF8</color>
+    <color name="material_dynamic_on_secondary_container">#1D192B</color>
+    
+    <!-- Tertiary Colors -->
+    <color name="material_dynamic_tertiary">#7D5260</color>
+    <color name="material_dynamic_on_tertiary">#FFFFFF</color>
+    <color name="material_dynamic_tertiary_container">#FFD8E4</color>
+    <color name="material_dynamic_on_tertiary_container">#31111D</color>
+    
+    <!-- Error Colors -->
+    <color name="material_dynamic_error">#BA1A1A</color>
+    <color name="material_dynamic_on_error">#FFFFFF</color>
+    <color name="material_dynamic_error_container">#FFDAD6</color>
+    <color name="material_dynamic_on_error_container">#410002</color>
+    
+    <!-- Surface Colors -->
+    <color name="material_dynamic_surface">#FEF7FF</color>
+    <color name="material_dynamic_on_surface">#1C1B1F</color>
+    <color name="material_dynamic_surface_variant">#E7E0EC</color>
+    <color name="material_dynamic_on_surface_variant">#49454F</color>
+    
+    <!-- Outline Colors -->
+    <color name="material_dynamic_outline">#79747E</color>
+    <color name="material_dynamic_outline_variant">#CAC4D0</color>
+    
+    <!-- Music App Specific Colors -->
+    <color name="music_primary">#FF6B35</color>
+    <color name="music_primary_variant">#E85A2B</color>
+    <color name="music_secondary">#2E86AB</color>
+    <color name="music_background">#F8F9FA</color>
+    <color name="music_surface">#FFFFFF</color>
+    <color name="music_accent">#FF6B35</color>
+    
+    <!-- Player Colors -->
+    <color name="player_background">#121212</color>
+    <color name="player_surface">#1E1E1E</color>
+    <color name="player_on_surface">#FFFFFF</color>
+    <color name="player_primary">#FF6B35</color>
+    
+    <!-- Gradient Colors for Modern Look -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_surface">#121212</color>
+    <color name="dark_on_surface">#E1E1E1</color>
+    <color name="dark_primary">#BB86FC</color>
+    <color name="dark_primary_variant">#985EFF</color>
+    <color name="dark_secondary">#03DAC6</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#4CAF50</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#F44336</color>
+    <color name="info_color">#2196F3</color>
 </resources>
