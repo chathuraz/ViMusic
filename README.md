@@ -2,11 +2,6 @@
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViMusic</h1>
     <p>A powerful, feature-rich Android music streaming application</p>
-    
-[![GitHub release](https://img.shields.io/github/v/release/Jigen-Ohtsusuki/ViMusic?style=flat-square)](https://github.com/Jigen-Ohtsusuki/ViMusic/releases)
-[![License](https://img.shields.io/github/license/Jigen-Ohtsusuki/ViMusic?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Jigen-Ohtsusuki/ViMusic?style=flat-square)](https://github.com/Jigen-Ohtsusuki/ViMusic/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Jigen-Ohtsusuki/ViMusic?style=flat-square)](https://github.com/Jigen-Ohtsusuki/ViMusic/issues)
 </div>
 
 ---
