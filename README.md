@@ -2,6 +2,11 @@
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViMusic</h1>
     <p>A powerful, feature-rich Android music streaming application</p>
+    
+[![GitHub release](https://img.shields.io/github/v/release/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/releases)
+[![License](https://img.shields.io/github/license/chathuraz/ViMusic?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/issues)
 </div>
 
 ---
@@ -49,7 +54,7 @@
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub"
 height="80"
-align="center">](https://github.com/Jigen-Ohtsusuki/ViMusic/releases/latest)
+align="center">](https://github.com/chathuraz/ViMusic/releases/latest)
 
 ### System Requirements
 - **Android Version**: 6.0 (API level 23) or higher
@@ -66,7 +71,7 @@ align="center">](https://github.com/Jigen-Ohtsusuki/ViMusic/releases/latest)
 ### Build Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/Jigen-Ohtsusuki/ViMusic.git
+git clone https://github.com/chathuraz/ViMusic.git
 cd ViMusic
 
 # Build the APK
@@ -91,9 +96,10 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 ## 🙏 Credits & Acknowledgments
 
 ### Original Project
-This is a fork of the original ViMusic project. All credit for the foundational work goes to the original developers and maintainers.
+This project is based on the original ViMusic project. All credit for the foundational work goes to the original developers and maintainers.
 
-**Source Repository**: [https://github.com/Jigen-Ohtsusuki/ViMusic](https://github.com/Jigen-Ohtsusuki/ViMusic)
+**Original Repository**: [https://github.com/vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)  
+**Enhanced Fork**: [https://github.com/Jigen-Ohtsusuki/ViMusic](https://github.com/Jigen-Ohtsusuki/ViMusic)
 
 ### Third-Party Libraries & Resources
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients) - Research project for discovering hidden YouTube API clients
@@ -119,8 +125,8 @@ This application is provided for educational and personal use only. Users are re
 <div align="center">
     <p>Made with ❤️ by the ViMusic community</p>
     <p>
-        <a href="https://github.com/Jigen-Ohtsusuki/ViMusic/issues">Report Bug</a> •
-        <a href="https://github.com/Jigen-Ohtsusuki/ViMusic/issues">Request Feature</a> •
-        <a href="https://github.com/Jigen-Ohtsusuki/ViMusic">Source Code</a>
+        <a href="https://github.com/chathuraz/ViMusic/issues">Report Bug</a> •
+        <a href="https://github.com/chathuraz/ViMusic/issues">Request Feature</a> •
+        <a href="https://github.com/chathuraz/ViMusic">Source Code</a>
     </p>
 </div>
