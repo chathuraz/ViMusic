@@ -53,20 +53,51 @@
     <color name="player_on_surface">#FFFFFF</color>
     <color name="player_primary">#FF6B35</color>
     
-    <!-- Gradient Colors for Modern Look -->
+    <!-- Modern Gradient Colors -->
     <color name="gradient_start">#667eea</color>
     <color name="gradient_end">#764ba2</color>
+    <color name="gradient_accent_start">#FF6B35</color>
+    <color name="gradient_accent_end">#F7931E</color>
+    <color name="gradient_surface_start">#FFFFFF</color>
+    <color name="gradient_surface_end">#F8F9FA</color>
     
-    <!-- Dark Theme Colors -->
+    <!-- Enhanced Dark Theme Colors -->
     <color name="dark_surface">#121212</color>
+    <color name="dark_surface_variant">#1E1E1E</color>
     <color name="dark_on_surface">#E1E1E1</color>
     <color name="dark_primary">#BB86FC</color>
     <color name="dark_primary_variant">#985EFF</color>
     <color name="dark_secondary">#03DAC6</color>
+    <color name="dark_background">#0F0F0F</color>
+    <color name="dark_background_variant">#1A1A1A</color>
+    
+    <!-- Modern Accent Colors -->
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_blue">#2E86AB</color>
+    <color name="accent_purple">#6750A4</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_pink">#E91E63</color>
     
     <!-- Status Colors -->
     <color name="success_color">#4CAF50</color>
     <color name="warning_color">#FF9800</color>
     <color name="error_color">#F44336</color>
     <color name="info_color">#2196F3</color>
+    
+    <!-- Player Gradient Colors -->
+    <color name="player_gradient_start">#1A1A1A</color>
+    <color name="player_gradient_middle">#2A2A2A</color>
+    <color name="player_gradient_end">#121212</color>
+    
+    <!-- Card Colors -->
+    <color name="card_surface">#FFFFFF</color>
+    <color name="card_surface_dark">#1E1E1E</color>
+    <color name="card_border">#E0E0E0</color>
+    <color name="card_border_dark">#333333</color>
+    
+    <!-- Navigation Colors -->
+    <color name="nav_surface">#FFFFFF</color>
+    <color name="nav_surface_dark">#1A1A1A</color>
+    <color name="nav_selected">#FF6B35</color>
+    <color name="nav_unselected">#757575</color>
 </resources>
