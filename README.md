@@ -1,44 +1,9 @@
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViMusic</h1>
-    <p>A modern, feature-rich Android music streaming application with Spotify-style professional UI</p>
+    <p>A powerful, feature-rich Android music streaming application</p>
     
-[![GitHub release](https://img.shields.io/github/v/release/chath### Tips for Best Experience
-- Use Wi-Fi for initial setup and downloads
-- Enable battery optimization exclusion for background playbook
-- Regularly update the app for latest features and bug fixes
-
-## 💡 Modern UI Components
-
-### Professional Component Library
-The new ViMusic features a complete set of professional UI components:
-
-#### 🎨 Core Components
-- **ModernCard**: Elevated cards with gradient support and smooth animations
-- **ModernIconButton**: Professional buttons with consistent sizing and interactions
-- **ModernSongItem**: Enhanced song display with improved typography and layout
-- **ModernMiniPlayer**: Compact player with essential controls and progress indication
-- **ModernExpandedPlayer**: Full-screen player experience with large artwork
-
-#### 🎵 Music-Specific Features
-- **Hero Featured Section**: Spotlight favorite tracks with stunning visual presentation
-- **Daily Mix Layout**: Spotify-style curated playlists with horizontal scrolling
-- **Professional Typography**: Poppins font family with proper weight hierarchy
-- **Interactive States**: Smooth animations for play/pause, loading, and selection states
-
-#### 🌈 Design System
-- **Material 3 Integration**: Full Material You dynamic color support
-- **Gradient Backgrounds**: Beautiful depth and modern visual appeal
-- **Card-Based Layout**: Organized content presentation with consistent spacing
-- **Responsive Design**: Perfect adaptation to all screen sizes and orientations
-
-#### ⚡ Performance Features
-- **60fps Animations**: Smooth spring-based transitions throughout the app
-- **Lazy Loading**: Efficient content loading for better performance
-- **Memory Optimization**: Smart caching and resource management
-- **Accessibility Support**: Full screen reader and navigation support
-
-## 🤝 ContributingiMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/releases)
+[![GitHub release](https://img.shields.io/github/v/release/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/releases)
 [![License](https://img.shields.io/github/license/chathuraz/ViMusic?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/chathuraz/ViMusic?style=flat-square)](https://github.com/chathuraz/ViMusic/issues)
