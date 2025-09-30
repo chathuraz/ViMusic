@@ -44,9 +44,37 @@
     <color name="music_surface">#1E1E1E</color>
     <color name="music_accent">#FF8A65</color>
     
-    <!-- Dark Player Colors -->
+    <!-- Enhanced Dark Player Colors -->
     <color name="player_background">#000000</color>
     <color name="player_surface">#121212</color>
     <color name="player_on_surface">#E1E1E1</color>
     <color name="player_primary">#FF8A65</color>
+    
+    <!-- Dark Gradient Colors -->
+    <color name="gradient_start">#1A1A2E</color>
+    <color name="gradient_end">#16213E</color>
+    <color name="gradient_accent_start">#FF8A65</color>
+    <color name="gradient_accent_end">#FFAB91</color>
+    <color name="gradient_surface_start">#1A1A1A</color>
+    <color name="gradient_surface_end">#2A2A2A</color>
+    
+    <!-- Enhanced Navigation Dark Colors -->
+    <color name="nav_surface">#151515</color>
+    <color name="nav_selected">#FF8A65</color>
+    <color name="nav_unselected">#9E9E9E</color>
+    
+    <!-- Enhanced Card Dark Colors -->
+    <color name="card_surface">#1E1E1E</color>
+    <color name="card_border">#2A2A2A</color>
+    
+    <!-- Enhanced Status Dark Colors -->
+    <color name="success_color">#66BB6A</color>
+    <color name="warning_color">#FFB74D</color>
+    <color name="error_color">#EF5350</color>
+    <color name="info_color">#42A5F5</color>
+    
+    <!-- Modern Dark Background Variations -->
+    <color name="dark_background">#0F0F0F</color>
+    <color name="dark_background_variant">#1A1A1A</color>
+    <color name="dark_surface_variant">#1E1E1E</color>
 </resources>
