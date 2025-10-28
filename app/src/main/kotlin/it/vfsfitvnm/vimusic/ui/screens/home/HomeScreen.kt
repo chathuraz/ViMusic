@@ -7,6 +7,7 @@ import it.vfsfitvnm.vimusic.models.toUiMood
 import it.vfsfitvnm.vimusic.preferences.UIStatePreferences
 import it.vfsfitvnm.vimusic.ui.components.themed.Scaffold
 import it.vfsfitvnm.vimusic.ui.screens.GlobalRoutes
+import it.vfsfitvnm.vimusic.ui.screens.home.ModernHomeScaffold
 import it.vfsfitvnm.vimusic.ui.screens.Route
 import it.vfsfitvnm.vimusic.ui.screens.albumRoute
 import it.vfsfitvnm.vimusic.ui.screens.artistRoute
@@ -60,21 +61,10 @@ fun HomeScreen() {
         }
 
         Content {
-            Scaffold(
-                key = "home",
-                topIconButtonId = R.drawable.equalizer,
-                onTopIconButtonClick = { settingsRoute() },
+            ModernHomeScaffold(
                 tabIndex = UIStatePreferences.homeScreenTabIndex,
                 onTabChange = { UIStatePreferences.homeScreenTabIndex = it },
-                tabColumnContent = {
-                    tab(0, R.string.quick_picks, R.drawable.sparkles)
-                    tab(1, R.string.discover, R.drawable.globe)
-                    tab(2, R.string.songs, R.drawable.musical_notes)
-                    tab(3, R.string.playlists, R.drawable.playlist)
-                    tab(4, R.string.artists, R.drawable.person)
-                    tab(5, R.string.albums, R.drawable.disc)
-                    tab(6, R.string.local, R.drawable.download)
-                }
+                onSettingsClick = { settingsRoute() }
             ) { currentTabIndex ->
                 saveableStateHolder.SaveableStateProvider(key = currentTabIndex) {
                     val onSearchClick = { searchRoute("") }

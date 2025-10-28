@@ -219,14 +219,6 @@ fun QuickPicks(
                         modifier = Modifier.padding(top = 4.dp)
                     )
                 }
-                
-                // Professional more options button
-                ModernIconButton(
-                    iconId = R.drawable.ellipsis_horizontal,
-                    size = 40,
-                    onClick = { /* More options */ },
-                    modifier = Modifier.padding(8.dp)
-                )
             }
 
             // Spotify-style professional content
